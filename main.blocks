@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@?|):^1ppdTI+y9Av1];" x="0" y="0"/><block type="device_forever" id="8ZV]_t{)!mSWhXy]yNdZ" x="205" y="0"><statement name="HANDLER"><block type="controls_if" id="x1yadpVS(#L|]q!~kq+5"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="bPE6XZ6t|?eWM`yn{};C"><field name="OP">GT</field><value name="A"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="|#Pi0Y_kl:qFYJ~#x,W$"/></value><value name="B"><shadow type="math_number" id="3oDn3xODLO+a8TF6T*Qp"><field name="NUM">25</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="TP#v{Q7Ya.=,45a|3J]Y"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field></block></statement><next><block type="controls_if" id="5_nl:F/KhX0Z|J8~a3H3"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="/C4;~pYY1KAYJIFV]$Mw"><field name="OP">GT</field><value name="A"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_get_light_level" id=",jc{[1p%#Bq`~NjkK=KL"/></value><value name="B"><shadow type="math_number" id="1iq-V{7^ncTLw:1IT]cw"><field name="NUM">50</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="H/-8K5wYc}ZkN|n=btRA"><field name="LEDS">`
+        . # # # . 
+        # . . # . 
+        . . # . . 
+        . # . . . 
+        # # # # .
+        `</field></block></statement><next><block type="controls_if" id="Yi)yB:Z%[.jZHppHg`@:"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="*;OcO{mf*zfhf}ODVfC}"><field name="OP">GT</field><value name="A"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="x7YO!MiyTrX;:@I`V3#K"/></value><value name="B"><shadow type="math_number" id="@{#*;O4V*%DfEs%;_sIh"><field name="NUM">100</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="jCNEXsCv{tRw|AH9U^:C"><field name="LEDS">`
+        # # . # . 
+        . . . . # 
+        . . # # . 
+        . . . . # 
+        # # # # .
+        `</field></block></statement><next><block type="controls_if" id="5@.e4)xmNE81e%Ldc-{$"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="^=cX25,,,}IT{^~.MgNb"><field name="OP">GT</field><value name="A"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="JQx2Sa}3i#enwHIpD:Th"/></value><value name="B"><shadow type="math_number" id="i?Ce:FDQcfyVt4IK)A#7"><field name="NUM">150</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="I5]q8LC[Z3-+G$Q/}WnZ"><field name="LEDS">`
+        # . . # . 
+        # . . # . 
+        # # # # . 
+        . . . # . 
+        . . . # .
+        `</field></block></statement><next><block type="controls_if" id="k(YxF-*6laaTHvLJg86^"><value name="IF0"><shadow type="logic_boolean" disabled="true"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="Bv1+tr-TmVJH]GMtZ;QC"><field name="OP">GT</field><value name="A"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="Bf-c3^/q)H^{Oq/LVAvv"/></value><value name="B"><shadow type="math_number" id="Wf|dkqX7StdhZ:!.d3v}"><field name="NUM">200</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id="%9,CqT#p%E7|2AQmz%J3"><field name="LEDS">`
+        . # # # . 
+        # . . . . 
+        . # # . . 
+        . . . # . 
+        # # # . .
+        `</field></block></statement></block></next></block></next></block></next></block></next></block></statement></block></xml>
